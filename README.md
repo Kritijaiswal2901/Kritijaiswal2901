@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with web developers.
 - 📫 This is my LINKEDIN PROFILE: https://www.linkedin.com/in/kriti-jaiswal-8a5521202/
       This is my INSTAGRAM LINK: https://www.instagram.com/kritijaiswal2901/
-      This id mt TWITTER ACCOUNT LINK: https://twitter.com/Kritija45777130
+      This id mY TWITTER ACCOUNT LINK: https://twitter.com/Kritija45777130
 
 <!---
 Kritijaiswal2901/Kritijaiswal2901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
